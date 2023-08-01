@@ -179,6 +179,6 @@ body{
 .music{
     height: 30px;
     width: 30%;
-    position: fixed;
+    position: sticky;
     bottom: 0;
 }
